@@ -84,7 +84,7 @@ Feel free to reach out!
 <a href="https://www.youtube.com"><img src="https://img.shields.io/badge/-%20-2E073F?style=for-the-badge&logo=youtube&logoColor=EBD3F8" alt="YouTube" /></a>
 <a href="https://www.instagram.com"><img src="https://img.shields.io/badge/-%20-2E073F?style=for-the-badge&logo=instagram&logoColor=EBD3F8" alt="Instagram" /></a>
 <a href="https://x.com"><img src="https://img.shields.io/badge/-%20-2E073F?style=for-the-badge&logo=x&logoColor=EBD3F8" alt="X" /></a>
-<a href="[https://itch.io](https://akashdevnath.itch.io)"><img src="https://img.shields.io/badge/-%20-2E073F?style=for-the-badge&logo=itchdotio&logoColor=EBD3F8" alt="itch.io" /></a>
+<a href="https://akashdevnath.itch.io"><img src="https://img.shields.io/badge/-%20-2E073F?style=for-the-badge&logo=itchdotio&logoColor=EBD3F8" alt="itch.io" /></a>
 <a href="https://github.com"><img src="https://img.shields.io/badge/-%20-2E073F?style=for-the-badge&logo=github&logoColor=EBD3F8" alt="GitHub" /></a>
 
 <br/>
