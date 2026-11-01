@@ -77,7 +77,7 @@ A second line describing the gameplay or main mechanic.
 ## 📬 Contact
 Feel free to reach out!
 
-**Email:** [contact@akashdevnath@gmail.com](mailto:YOUR_EMAIL@example.com)
+**Email:** [akashdevnath.dev@gmail.com](mailto:YOUR_EMAIL@example.com)
 
 <div align="center">
 
