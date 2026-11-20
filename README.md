@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://skill-icons-v2.vercel.app/api/icons?i=unity,cs,python,cpp,github&theme=dark" alt="Skills and tools" />
+<img src="https://skill-icons-v2.vercel.app/api/icons?i=unity,cs,python,jira,github&theme=dark" alt="Skills and tools" />
 
 </div>
 
@@ -20,6 +20,10 @@
 
 ## 🎮 Projects
 
+### 🎮 FPS Shooter | Unity 6 & C#
+A 3D FPS practice project built with Unity 6 and C#, featuring basic enemy AI, NavMesh navigation, weapon systems, and shooting mechanics.
+
+[GitHub Repository](https://github.com/akash-devnath/FPS-SHOOTER) 
 
 ---
 
